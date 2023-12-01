@@ -1,0 +1,1 @@
+# RubiksCubeSolver2x2_Optimized
